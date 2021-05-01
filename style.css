@@ -1,0 +1,121 @@
+.body {
+    background-color: #FFE5B4;
+    
+}
+    
+
+
+
+#countdown-container {
+    display: inline-block;
+    width: 300px;
+
+    margin: 25px;
+    max-width: 500px;
+    display: grid;
+    margin: 20px 0;
+    border-radius: 5px;
+    background: #1d81af;
+    
+}
+
+#countdown {
+    font-family: "Fira Sans", sans-serif;
+    display: inline-block;
+    padding: 50px;
+    background: #1d81af;
+    color: white;
+}
+
+#countdown span {
+    font-weight: bold;
+    font-size: 50px; 
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* .until {
+    margin: 25px;
+    max-width: 500px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1em;
+    padding: 1em;
+    background: #2967cc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgb(0, 0, 0, 0.3);
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+.until__component {
+    text-align: center;
+    background: #ffffff;
+    border-radius: 5px;
+}
+
+.until_numeric {
+    color: #333333;
+    padding: 0.5em 0;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.until__unit {
+    font-size: 1.2em;
+    padding-bottom: 1em;
+    font-weight: bold;
+    color: #490018;
+}
+
+.until__event {
+    grid-column: span 4;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+}  */
